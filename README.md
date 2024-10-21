@@ -3,7 +3,7 @@ This application will keep score for you basketball games.
 
 ## Description
 
-If you don't trust big company's to provide unique random passowrds, then this is the program for you.  If you combine this with my Passman application built in Java, then you will never forget a password again.  Your accounts will never be hacked.  This program makes creating a unique, random password effortless.
+This app features two teams: Home and Away, each equipped with buttons for 1-point, 2-point, and 3-point scores. Keep track of every shot and see who dominates the court! May the best team win! 🏆
 
 ## Getting Started
 
