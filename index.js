@@ -1,33 +1,43 @@
-let homescore = 0
-let guestscore = 0
+const home = document.getElementById("home-score")
+const away = document.getElementById("away-score")
+
+let homeScore = 0
+let awayScore = 0
 
 
 function homeadd1() {
-    homescore += 1
-    document.getElementById("home-score").textContent = homescore
+    homeScore += 1
+    home.textContent = homeScore
 }
 
 function homeadd2() {
-    homescore += 2
-    document.getElementById("home-score").textContent = homescore
+    homeScore += 2
+    home.textContent = homeScore
 }
 
 function homeadd3() {
-    homescore += 3
-    document.getElementById("home-score").textContent = homescore
+    homeScore += 3
+    home.textContent = homeScore
 }
 
-function guestadd1() {
-    guestscore += 1
-    document.getElementById("guest-score").textContent = guestscore
+function awayadd1() {
+    awayScore += 1
+    away.textContent = awayScore
 }
 
-function guestadd2() {
-    guestscore += 2
-    document.getElementById("guest-score").textContent = guestscore
+function awayadd2() {
+    awayScore += 2
+    away.textContent = awayScore
 }
 
-function guestadd3() {
-    guestscore += 3
-    document.getElementById("guest-score").textContent = guestscore
+function awayadd3() {
+    awayScore += 3
+    away.textContent = awayScore
+}
+
+function resetScores() {
+    homeScore = 0
+    home.textContent = homeScore
+    awayScore = 0
+    away.textContent = awayScore
 }
