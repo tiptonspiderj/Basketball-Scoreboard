@@ -26,7 +26,7 @@ None
 | ----------------- | ------------------------------------------------------------------ |
 | Background Color | ![#1b244a](https://imageplaceholder.net/10x10/1b244a?text=) #1b244a |
 | Text Color | ![#fc1b45](https://imageplaceholder.net/10x10/fc1b45?text=) #fc1b45 |
-| Textfield Color | ![#080001](https://imageplaceholder.net/10x10/080001?text=) #080001 |
+| Score Background Color | ![#080001](https://imageplaceholder.net/10x10/080001?text=) #080001 |
 | Light Blue Color | ![#9aabd8](https://imageplaceholder.net/10x10/9aabd8?text=) #9aabd8 |
 
 
