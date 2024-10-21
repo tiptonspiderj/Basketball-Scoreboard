@@ -3,13 +3,13 @@ html{
     background-size: cover; 
 }
 body {
-    margin-top: 60px;
+    margin-top: 90px;
     padding: 0;  
     display: flex;
     flex-direction: column;
     justify-content: center; 
     align-items: center;
-    height: 100vh; 
+    height: 90vh; 
 }
 
 @font-face {
