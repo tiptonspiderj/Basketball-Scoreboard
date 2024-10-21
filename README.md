@@ -24,10 +24,10 @@ None
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color | ![#1f2937](https://imageplaceholder.net/10x10/1f2937?text=) #1f2937 |
-| Text Color | ![#d7d7d7](https://imageplaceholder.net/10x10/d7d7d7?text=) #d7d7d7 |
-| Textfield Color | ![#273549](https://imageplaceholder.net/10x10/273549?text=) #273549 |
-| Button Color | ![#10b981](https://imageplaceholder.net/10x10/10b981?text=) #10b981 |
+| Background Color | ![#1b244a](https://imageplaceholder.net/10x10/1b244a?text=) #1b244a |
+| Text Color | ![#fc1b45](https://imageplaceholder.net/10x10/fc1b45?text=) #fc1b45 |
+| Textfield Color | ![#080001](https://imageplaceholder.net/10x10/080001?text=) #080001 |
+| Light Blue Color | ![#9aabd8](https://imageplaceholder.net/10x10/9aabd8?text=) #9aabd8 |
 
 
 ## Authors
