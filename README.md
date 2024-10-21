@@ -9,7 +9,7 @@ If you don't trust big company's to provide unique random passowrds, then this i
 
 Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Basketball-Scoreboard/blob/main/Screenshot.png)](https://tiptonspiderj-passwordgenerator.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Basketball-Scoreboard/blob/main/Screenshot.png)](https://tiptonspiderj1-basketball-scoreboard.netlify.app/)
 
 ### Installing for Windows
 
