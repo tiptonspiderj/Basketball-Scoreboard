@@ -1,5 +1,6 @@
 # Basketball Scoreboard
-This application will keep score for you basketball games.  
+
+Welcome to an exciting Basketball Score Counter built for all the passionate fans out there!
 
 ## Description
 
